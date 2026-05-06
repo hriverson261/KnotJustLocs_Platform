@@ -1,1 +1,1 @@
-Knot Just Locs is a start-up braiding business which specializes in locs and braids. We create flawless styles while keeping your hair healthy, strong, and thriving.
+Knot Just Locs is a full-stack web application that simplifies booking hair services through an intuitive and user-friendly platform. Users can create accounts, log in securely, and schedule appointments by selecting their preferred date, time, and hair professional using an integrated calendar system.
